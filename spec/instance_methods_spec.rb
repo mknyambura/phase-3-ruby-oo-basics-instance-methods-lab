@@ -1,4 +1,5 @@
-require 'spec_helper'
+require_relative 'spec_helper'
+require_relative '../instance_methods'
 
 describe 'Dog' do
   it 'is defined' do
